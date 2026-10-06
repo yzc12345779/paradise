@@ -1224,7 +1224,7 @@ abstract class AppLocalizations {
   /// Acknowledgements to the projects this one was modelled on
   ///
   /// In en, this message translates to:
-  /// **'Acknowledgements:\n\nKelivo - ToolCall reference\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - persona card reference\nhttps://github.com/SillyTavern/SillyTavern'**
+  /// **'Acknowledgements:\n\nKelivo - ToolCall reference\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - persona card reference\nhttps://github.com/SillyTavern/SillyTavern\n\nUser-6170 & Kimi work-K2.8 Preview - media, clinginess, backup and shop features\nhttps://github.com/yzc12345779'**
   String get settingsAboutThanks;
 
   /// Direct dependencies with their licence, the transitive tree is in the lockfile

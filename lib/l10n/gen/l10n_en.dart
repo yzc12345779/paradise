@@ -629,7 +629,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get settingsAboutThanks =>
-      'Acknowledgements:\n\nKelivo - ToolCall reference\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - persona card reference\nhttps://github.com/SillyTavern/SillyTavern';
+      'Acknowledgements:\n\nKelivo - ToolCall reference\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - persona card reference\nhttps://github.com/SillyTavern/SillyTavern\n\nUser-6170 & Kimi work-K2.8 Preview - media, clinginess, backup and shop features\nhttps://github.com/yzc12345779';
 
   @override
   String get settingsAboutDeps =>

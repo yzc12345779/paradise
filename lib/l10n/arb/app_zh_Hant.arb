@@ -776,7 +776,7 @@
   "@settingsAboutRepo": {
     "description": "Repository link in the about dialog"
   },
-  "settingsAboutThanks": "鳴謝:\n\nKelivo - ToolCall 參考\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - 人設卡參考\nhttps://github.com/SillyTavern/SillyTavern",
+  "settingsAboutThanks": "鳴謝:\n\nKelivo - ToolCall 參考\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - 人設卡參考\nhttps://github.com/SillyTavern/SillyTavern\n\nUser-6170 & Kimi work-K2.8 Preview - 媒體、黏人度、自動備份與商城功能\nhttps://github.com/yzc12345779",
   "@settingsAboutThanks": {
     "description": "Acknowledgements to the projects this one was modelled on"
   },

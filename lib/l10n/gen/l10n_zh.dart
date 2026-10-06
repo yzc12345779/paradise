@@ -613,7 +613,7 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get settingsAboutThanks =>
-      '鸣谢:\n\nKelivo - ToolCall 参考\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - 人设卡参考\nhttps://github.com/SillyTavern/SillyTavern';
+      '鸣谢:\n\nKelivo - ToolCall 参考\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - 人设卡参考\nhttps://github.com/SillyTavern/SillyTavern\n\nUser-6170 & Kimi work-K2.8 Preview - 媒体、粘人度、自动备份与商城功能\nhttps://github.com/yzc12345779';
 
   @override
   String get settingsAboutDeps =>
@@ -4438,7 +4438,7 @@ class AppLocalizationsZhHant extends AppLocalizationsZh {
 
   @override
   String get settingsAboutThanks =>
-      '鳴謝:\n\nKelivo - ToolCall 參考\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - 人設卡參考\nhttps://github.com/SillyTavern/SillyTavern';
+      '鳴謝:\n\nKelivo - ToolCall 參考\nhttps://github.com/Chevey339/kelivo\n\nSillyTavern - 人設卡參考\nhttps://github.com/SillyTavern/SillyTavern\n\nUser-6170 & Kimi work-K2.8 Preview - 媒體、黏人度、自動備份與商城功能\nhttps://github.com/yzc12345779';
 
   @override
   String get settingsAboutDeps =>
